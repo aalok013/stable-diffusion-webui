@@ -1,0 +1,20 @@
+{
+    "txt2img/Scale to maximum dimension/visible": true,
+    "txt2img/Scale to minimum dimension/visible": true,
+    "txt2img/1:1/visible": true,
+    "txt2img/ 4:3/visible": true,
+    "txt2img/ 16:9/visible": true,
+    "txt2img/ 9:16/visible": true,
+    "txt2img/ 21:9/visible": true,
+    "img2img/Scale to maximum dimension/visible": true,
+    "img2img/Scale to minimum dimension/visible": true,
+    "img2img/1:1/visible": true,
+    "img2img/ 4:3/visible": true,
+    "img2img/ 16:9/visible": true,
+    "img2img/ 9:16/visible": true,
+    "img2img/ 21:9/visible": true,
+    "txt2img/ 3:4/visible": true,
+    "txt2img/ 9:21/visible": true,
+    "img2img/ 3:4/visible": true,
+    "img2img/ 9:21/visible": true
+}
